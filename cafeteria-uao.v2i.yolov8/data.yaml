@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 5
+names: ['gorra', 'tamarindo', 'termo', 'uva', 'vaso']
+
+roboflow:
+  workspace: santiagos-workspace-rl5ya
+  project: cafeteria-uao
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/santiagos-workspace-rl5ya/cafeteria-uao/dataset/2
