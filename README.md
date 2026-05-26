@@ -4,7 +4,7 @@ https://github.com/Santio0717/validacion-digital-compras-uao
 ---
 ## Autores
 * D. Ruiz Tocora
-* C. Pinzón Mosquera
+* C. Tenorio Aristizábal 
 * S. Murillo Ramírez
 
 Proyecto Final – PDI 2026
